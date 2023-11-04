@@ -1,4 +1,4 @@
-# Morse-Codec 
+# Enumerable
 
 
 # 📗 Table of Contents
@@ -20,7 +20,7 @@
 
 # 📖 [Pet Clinic] <a name="about-project"></a>
 
->  A ruby program to decode morse into readbale text 
+>  An implemention of a subset of the functionality of Enumerable in Ruby language 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,7 +39,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> The applet convert standard international morse code to redable text
+> An implemention of a subset of the functionality of Enumerable in Ruby language
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +55,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need to:
 
 ```sh
- git clone https://github.com/Goldinium/Morse-Codec
+ git clone https://github.com/Goldinium/Enumerable.git
 ```
 
 ### Install & Usage
@@ -63,7 +63,8 @@ In order to run this project you need to:
 No instalattion for this project, just run
 
 ```sh
- ruby morse_decoder.rb
+ ruby my_enumerable.rb
+ ruby my-list.rb
 ```
 
 <!-- AUTHORS -->
@@ -80,7 +81,7 @@ No instalattion for this project, just run
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Sound feature, decode sound beeps!
+> None for now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
